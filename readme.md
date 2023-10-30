@@ -5,6 +5,25 @@
 - Загрузчик модов: `Forge`
 - Всего модов (включая библиотеки): `48`
 
+## Путеводитель
+
+- [API и билиотеки](#api-и-библиотеки)
+  - *Количество модов*: `14`
+- [Визуал](#визуал)
+  - *Количество модов*: `1`
+- [Индустриальные моды](#индустриальные-моды)
+  - *Количество модов*: `3`
+- [RPG](#rpg)
+  - *Количество модов*: `5`
+- [Биомы](#биомы)
+  - *Количество модов*: `5`
+- [Моды](#мобы)
+  - *Количество модов*: `5`
+- [Инструменты](#инструменты)
+  - *Количество модов*: `3`
+- [Вспомогательные моды](#вспомогательные-моды)
+  - *Количество модов*: `12`
+
 #### API и библиотеки
 
 1. [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
@@ -92,19 +111,17 @@
       - [L_Ender 's Cataclysm](#l_ender-s-cataclysm)
       - [Alex's Mobs](#alexs-mobs)
 
-13. [FTB Library](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)
-    - *Файл в директории*: `ftb-library-forge-1902.4.1-build.236.jar`
-    - *Описание*: Общий код для всего графического интерфейса в модах FTB.
+13. [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf)
+    - *Файл в директории*: `citadel-2.4.7-1.20.1.jar`
+    - *Описание*: Набор кода, фреймворков, утилит и других ресурсов.
     - *Нужен для*:
-      - [FTB Ultimine](#ftb-ultimine)
+      - [Enchantment Descriptions](#enchantment-descriptions)
 
-14. [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api)
-    - *Файл в директории*: `architectury-9.1.12-forge.jar`
-    - *Описание*: Общий код для всего графического интерфейса в модах FTB.
-    - *Нужно для работы*:
-      - [FTB Library](#ftb-library)
+14. [Cristel Lib](https://www.curseforge.com/minecraft/mc-mods/cristel-lib)
+    - *Файл в директории*: `cristellib-1.1.3-forge-1.20.1.jar`
+    - *Описание*: Позволяет создавать конфиги для структур с кодом или данными.
     - *Нужен для*:
-      - [FTB Ultimine](#ftb-ultimine)
+      - [Towns and Towers](#towns-and-towers)
 
 #### Визуал
 
@@ -308,9 +325,8 @@
       - [Kotlin for Forge](#kotlin-for-forge)
       - [libIPN](#libipn)
 
-12. [FTB Ultimine](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge)
-    - *Файл в директории*: `ftb-ultimine-forge-1802.3.4-build.93.jar`
-    - *Описание*: Этот мод позволяет вам собирать несколько блоков одновременно, если вы удерживаете клавишу ` / ~ (настраивается в разделе «Управление», измените клавишу FTB Ultimine). Также отображают белые линии вокруг блоков, которые будут добыты.
-    - *Нужно для работы*:
-      - [FTB Library](#ftb-library)
-      - [Architectury API](#architectury-api)
+12. [FallingTree](https://www.curseforge.com/minecraft/mc-mods/falling-tree)
+    - *Файл в директории*: `FallingTree-1.20.1-4.3.1.jar`
+    - *Описание*: Добавляет быстрый способ ломать деревья, быстро падают листья.
+    - *Связанные*: 
+      - [Cloth Config API](#cloth-config-api)
